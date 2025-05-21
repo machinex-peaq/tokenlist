@@ -1,0 +1,19 @@
+{
+  "name": "MachineX: Peaq List",
+  "tokens": [
+    [
+      {
+        "name": "Wrapped Peaq",
+        "address": "0x3cD66d2e1fac1751B0A20BeBF6cA4c9699Bb12d7",
+        "symbol": "WPEAQ",
+        "decimals": 18
+      },
+      {
+        "name": "Bridged USDC",
+        "address": "0xbbA60da06c2c5424f03f7434542280FCAd453d10",
+        "symbol": "USDC.e",
+        "decimals": 6
+      }
+    ]
+  ]
+}
