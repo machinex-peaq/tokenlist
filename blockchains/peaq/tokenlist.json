@@ -13,6 +13,12 @@
         "address": "0xbbA60da06c2c5424f03f7434542280FCAd453d10",
         "symbol": "USDC.e",
         "decimals": 6
+      },
+      {
+        "name": "Stargate Bridged USDT",
+        "address": "0xf4D9235269a96aaDaFc9aDAe454a0618eBE37949",
+        "symbol": "stgUSDT",
+        "decimals": 6
       }
     ]
   ]
