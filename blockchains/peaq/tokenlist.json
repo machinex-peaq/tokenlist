@@ -25,6 +25,12 @@
         "address": "0x5c3126bfB9A68a7021d461230127470b3824886B",
         "symbol": "SLC",
         "decimals": 18
+      },
+      {
+        "name": "Anyone",
+        "address": "0xe67F39FbE8C24ef8b3542efED1eE9963cEFC1f2a",
+        "symbol": "ANYONE",
+        "decimals": 18
       }
     ]
   ]
