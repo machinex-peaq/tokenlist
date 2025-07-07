@@ -31,6 +31,12 @@
         "address": "0xe67F39FbE8C24ef8b3542efED1eE9963cEFC1f2a",
         "symbol": "ANYONE",
         "decimals": 18
+      },
+      {
+        "name": "Auki",
+        "address": "0xF67Db9d00401D9e883208882F5c100d7482b083D",
+        "symbol": "AUKI",
+        "decimals": 18
       }
     ]
   ]
