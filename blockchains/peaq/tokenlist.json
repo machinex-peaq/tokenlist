@@ -43,6 +43,12 @@
         "address": "0xE5330a9fBA99504C534127D39727729899c9a506",
         "symbol": "wstPEAQ",
         "decimals": 18
+      },
+      {
+        "name": "Over",
+        "address": "0x08E6D50169863FD9BEb88687ce1573CF9D6D1484",
+        "symbol": "OVR",
+        "decimals": 18
       }
     ]
   ]
