@@ -37,6 +37,12 @@
         "address": "0xF67Db9d00401D9e883208882F5c100d7482b083D",
         "symbol": "AUKI",
         "decimals": 18
+      },
+      {
+        "name": "Wrapped Staked PEAQ",
+        "address": "0xE5330a9fBA99504C534127D39727729899c9a506",
+        "symbol": "wstPEAQ",
+        "decimals": 18
       }
     ]
   ]
