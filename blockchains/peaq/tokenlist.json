@@ -51,7 +51,7 @@
         "decimals": 18
       },
       {
-        "name": "Codex",
+        "name": "Codec",
         "address": "0xEE311E67825c22e5C7238546431651686ce91421",
         "symbol": "CODEC",
         "decimals": 18
