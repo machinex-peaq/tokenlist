@@ -49,6 +49,12 @@
         "address": "0x08E6D50169863FD9BEb88687ce1573CF9D6D1484",
         "symbol": "OVR",
         "decimals": 18
+      },
+      {
+        "name": "Codex",
+        "address": "0xEE311E67825c22e5C7238546431651686ce91421",
+        "symbol": "CODEC",
+        "decimals": 18
       }
     ]
   ]
