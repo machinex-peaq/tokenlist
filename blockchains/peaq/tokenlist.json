@@ -55,6 +55,12 @@
         "address": "0xEE311E67825c22e5C7238546431651686ce91421",
         "symbol": "CODEC",
         "decimals": 18
+      },
+      {
+        "name": "iG3",
+        "address": "0x6C1cA31A9F3A57Bb680f82A8FE97Fc00Ac4aAd21",
+        "symbol": "TOPS",
+        "decimals": 18
       }
     ]
   ]
