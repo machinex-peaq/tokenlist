@@ -61,6 +61,12 @@
         "address": "0x6C1cA31A9F3A57Bb680f82A8FE97Fc00Ac4aAd21",
         "symbol": "TOPS",
         "decimals": 18
+      },
+      {
+        "name": "RoboStack",
+        "address": "0xFd9D1b4a0384396A595345886d1E1D8AbF439CEf",
+        "symbol": "ROBOT",
+        "decimals": 18
       }
     ]
   ]
