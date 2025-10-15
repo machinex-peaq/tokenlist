@@ -67,6 +67,12 @@
         "address": "0xFd9D1b4a0384396A595345886d1E1D8AbF439CEf",
         "symbol": "ROBOT",
         "decimals": 18
+      },
+      {
+        "name": "RICE AI",
+        "address": "0x1190fb50226b54958e284bd674eff346936af885",
+        "symbol": "RICE",
+        "decimals": 18
       }
     ]
   ]
