@@ -73,6 +73,12 @@
         "address": "0x1190fb50226b54958e284bd674eff346936af885",
         "symbol": "RICE",
         "decimals": 18
+      },
+      {
+        "name": "Homebrew Robotics Club",
+        "address": "0x7f6c37D043d4C56371AB72f2F7C64D29e5793CDc",
+        "symbol": "BREW",
+        "decimals": 18
       }
     ]
   ]
