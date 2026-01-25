@@ -79,6 +79,12 @@
         "address": "0x7f6c37D043d4C56371AB72f2F7C64D29e5793CDc",
         "symbol": "BREW",
         "decimals": 18
+      },
+      {
+        "name": "Acurast",
+        "address": "0x165bcb970836F83c15b22c3c1622279d97A20446",
+        "symbol": "ACU",
+        "decimals": 18
       }
     ]
   ]
