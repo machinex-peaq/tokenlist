@@ -85,6 +85,12 @@
         "address": "0x165bcb970836F83c15b22c3c1622279d97A20446",
         "symbol": "ACU",
         "decimals": 12
+      },
+      {
+        "name": "XMAQUINA",
+        "address": "0x940a319b75861014a220d9c6c144d108552b089b",
+        "symbol": "DEUS",
+        "decimals": 18
       }
     ]
   ]
